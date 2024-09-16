@@ -1,4 +1,4 @@
-## Hi there, Welcome to my GitHub👋
+## Hi there👋
 <!--
 - 🔭 I’m currently studying **Engineering**
 - 🌱 I’m currently learning JavaScript
