@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there, Welcome to my GitHub👋
+<!--
 - 🔭 I’m currently studying **Engineering**
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on 
@@ -8,4 +8,4 @@
 - 📫 How to reach me: 
 - 😄 Pronouns: 
 - ⚡ Fun fact: 
-
+-->
