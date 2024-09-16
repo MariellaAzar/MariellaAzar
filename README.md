@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently studying on 
-- 🌱 I’m currently learning 
+- 🔭 I’m currently studying **Engineering**
+- 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with 
 - 💬 Ask me about 
