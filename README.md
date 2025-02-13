@@ -1,5 +1,5 @@
 <h3 align="center">🧸 Hello World! I'm Mariella! 🧸 </h3>
-<h4 align="center">⭐ A curious and motivated software engineering student with a passion for design, innovation, and solving real-world problems... ⭐</h4>
+<h4 align="center">⭐ A curious and motivated software engineering student with a passion for design and innovation... ⭐</h4>
 
 ###
 
