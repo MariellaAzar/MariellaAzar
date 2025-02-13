@@ -62,7 +62,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MariellaAzar/MariellaAzar/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
