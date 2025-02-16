@@ -10,6 +10,12 @@
 ###
 
 <div align="center">
+  ![Profile views](https://komarev.com/ghpvc/?username=MariellaAzar)
+</div>
+
+###
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MariellaAzar&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
 </div>
 
