@@ -13,11 +13,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MariellaAzar&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
 </div>
 
+
 ###
 <div align="center">
   <a href="https://www.python.org/" target="_blank">
+    onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 0 10px rgba(255, 255, 255, 0.8)';" 
+    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
   </a>
+
   <a href="https://www.java.com/" target="_blank">
     <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=for-the-badge" alt="Java" />
   </a>
