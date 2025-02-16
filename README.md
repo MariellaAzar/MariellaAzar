@@ -1,19 +1,20 @@
 <h3 align="center">🧸 Hello World! I'm Mariella! 🧸 </h3>
 <h4 align="center">⭐ A curious and motivated student with a passion for design and innovation... ⭐</h4>
 
+
+###
+
+<br clear="both">
+<div align="center">
+  <img src="https://profile-counter.glitch.me/MariellaAzar/count.svg?"  />
+</div>
+
+
 ###
 
 <br clear="both">
 
 <img align="left" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzMzbnFkNTEyMHI4azA1ZTJnY2FoMWhuOXJvaDY5aHNud3pyaWEyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif"  />
-
-###
-
-<div align="center">
-  ![Profile views](https://komarev.com/ghpvc/?username=MariellaAzar)
-</div>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MariellaAzar&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
