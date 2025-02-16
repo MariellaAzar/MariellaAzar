@@ -15,8 +15,6 @@
 
 ###
 
-<br clear="both">
-
 <style>
   .tech-icons {
     display: flex;
