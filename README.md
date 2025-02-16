@@ -14,32 +14,12 @@
 </div>
 
 ###
-
-<style>
-  .tech-icons {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 12px;
-    align-items: center;
-  }
-
-  .tech-icons a {
-    display: inline-block;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  }
-  .tech-icons a:hover {
-    transform: scale(1.2);
-    box-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
-    filter: brightness(1.2);
-  }
-</style>
-
-<div class="tech-icons">
+<div align="center">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
   </a>
   <a href="https://www.java.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" />
+    <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=for-the-badge" alt="Java" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" />
@@ -90,7 +70,6 @@
     <img src="https://img.shields.io/badge/Stack Overflow-F58025?logo=stackoverflow&logoColor=black&style=for-the-badge" alt="Stack Overflow" />
   </a>
 </div>
-
 
 ###
 <div align="center">
