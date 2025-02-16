@@ -17,8 +17,6 @@
 ###
 <div align="center">
   <a href="https://www.python.org/" target="_blank">
-    onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 0 10px rgba(255, 255, 255, 0.8)';" 
-    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
   </a>
 
