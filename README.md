@@ -39,10 +39,6 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" />
   </a>
   
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" alt="C++" />
-  </a>
-  
   <a href="https://www.w3schools.com/js/" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
   </a>
