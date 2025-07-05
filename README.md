@@ -14,7 +14,8 @@
 
 <br clear="both">
 
-<img align="left" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzMzbnFkNTEyMHI4azA1ZTJnY2FoMWhuOXJvaDY5aHNud3pyaWEyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif"  />
+<img align="left" src="https://media3.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif" width="160" style="max-width: 100%; border-radius: 8px; margin-right: 16px;" />
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MariellaAzar&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
